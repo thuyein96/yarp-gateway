@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZlGJCqp35wE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thuye\\source\\repos\\Yarp.Example\\Yarp.Example.Product.Api\\Yarp.Example.Product.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thuye\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\thuye\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@Yarp.Example.Sales.Api_HostAddress = http://localhost:5182
+
+GET {{Yarp.Example.Sales.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
