@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Yarp.Example.Product.Api\Yarp.Example.Product.Api.csproj" />
+    <ProjectReference Include="..\Yarp.Example.Product2.Api\Yarp.Example.Product2.Api.csproj" />
     <ProjectReference Include="..\Yarp.Example.Sales.Api\Yarp.Example.Sales.Api.csproj" />
   </ItemGroup>
 

@@ -1,6 +1,6 @@
 [
   {
-    "Name": "New Profile",
+    "Name": "Yarp.Example",
     "Projects": [
       {
         "Path": "Yarp.Example.Gateway\\Yarp.Example.Gateway.csproj",
@@ -14,6 +14,11 @@
       },
       {
         "Path": "Yarp.Example.Product.Api\\Yarp.Example.Product.Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "Yarp.Example.Product2.Api\\Yarp.Example.Product2.Api.csproj",
         "Action": "Start",
         "DebugTarget": "https"
       }

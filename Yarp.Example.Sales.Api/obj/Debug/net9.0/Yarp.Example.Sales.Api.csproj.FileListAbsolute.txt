@@ -32,3 +32,4 @@ C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Sales.Api\obj\Debug\net9.0
 C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Sales.Api\obj\Debug\net9.0\Yarp.Example.Sales.Api.pdb
 C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Sales.Api\obj\Debug\net9.0\Yarp.Example.Sales.Api.genruntimeconfig.cache
 C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Sales.Api\obj\Debug\net9.0\ref\Yarp.Example.Sales.Api.dll
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Sales.Api\obj\Debug\net9.0\Yarp.Example.Sales.Api.sourcelink.json

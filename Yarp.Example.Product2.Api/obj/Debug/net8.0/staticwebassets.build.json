@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "r542FQBdaAxW1Pzt2Yh07tJ7NZSE6eDWBVpfTi667mU=",
+  "Source": "Yarp.Example.Product2.Api",
+  "BasePath": "_content/Yarp.Example.Product2.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

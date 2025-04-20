@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Yarp.Example.Product2.Api.props" />
+</Project>

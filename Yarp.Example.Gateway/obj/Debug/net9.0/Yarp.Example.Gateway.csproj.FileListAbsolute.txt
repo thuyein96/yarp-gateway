@@ -46,3 +46,13 @@ C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\bin\Debug\net9.0\Y
 C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\bin\Debug\net9.0\Yarp.Example.Product.Api.pdb
 C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\bin\Debug\net9.0\Yarp.Example.Sales.Api.pdb
 C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\obj\Debug\net9.0\Yarp.Example.Gateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\obj\Debug\net9.0\Yarp.Example.Gateway.sourcelink.json
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\bin\Debug\net9.0\Yarp.Example.Product2.Api.deps.json
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\bin\Debug\net9.0\Yarp.Example.Product2.Api.runtimeconfig.json
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\bin\Debug\net9.0\Yarp.Example.Product2.Api.staticwebassets.endpoints.json
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\bin\Debug\net9.0\Yarp.Example.Product2.Api.exe
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\bin\Debug\net9.0\Yarp.Example.Product2.Api.dll
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Gateway\bin\Debug\net9.0\Yarp.Example.Product2.Api.pdb

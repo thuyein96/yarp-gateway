@@ -1,6 +1,11 @@
+using Yarp.Example.Gateway;
+using Yarp.ReverseProxy.LoadBalancing;
+
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddReverseProxy()
+builder.Services
+    .AddSingleton<ILoadBalancingPolicy, TenantBasedLoadBalancingPolicy>()
+    .AddReverseProxy()
     .LoadFromConfig(builder.Configuration.GetSection("ReverseProxy"));
 
 var app = builder.Build();

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zbisJvvfxUMxXv5q5wzZNaU7igDzyP/7+mPsUAtKGFw=",
+  "Hash": "vr6OV5xgPHyGNCB47tQiyF4q6WsMbcR3cokTpHwWKNs=",
   "Source": "Yarp.Example.Gateway",
   "BasePath": "_content/Yarp.Example.Gateway",
   "Mode": "Default",
@@ -10,6 +10,17 @@
       "Identity": "C:\\Users\\thuye\\source\\repos\\Yarp.Example\\Yarp.Example.Product.Api\\Yarp.Example.Product.Api.csproj",
       "Version": 2,
       "Source": "Yarp.Example.Product.Api",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "C:\\Users\\thuye\\source\\repos\\Yarp.Example\\Yarp.Example.Product2.Api\\Yarp.Example.Product2.Api.csproj",
+      "Version": 2,
+      "Source": "Yarp.Example.Product2.Api",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
       "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",

@@ -9,13 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yarp.Example.Sales.Api", "Y
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yarp.Example.Product.Api", "Yarp.Example.Product.Api\Yarp.Example.Product.Api.csproj", "{4C196161-485A-46C6-BB9C-6D8CDA462F6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yarp.Example.Product2.Api", "Yarp.Example.Product2.Api\Yarp.Example.Product2.Api.csproj", "{91D88CCE-E7F2-4E88-8619-F10185F1667E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{33931C34-6815-41B5-9591-04724DADF326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +29,12 @@ Global
 		{4C196161-485A-46C6-BB9C-6D8CDA462F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C196161-485A-46C6-BB9C-6D8CDA462F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C196161-485A-46C6-BB9C-6D8CDA462F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D88CCE-E7F2-4E88-8619-F10185F1667E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D88CCE-E7F2-4E88-8619-F10185F1667E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D88CCE-E7F2-4E88-8619-F10185F1667E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D88CCE-E7F2-4E88-8619-F10185F1667E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
