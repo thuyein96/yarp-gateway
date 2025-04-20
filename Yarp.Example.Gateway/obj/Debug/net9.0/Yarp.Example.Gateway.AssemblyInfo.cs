@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yarp.Example.Gateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a633c1c8cdd4a3acd7d1dcb09fa4c107a7e97102")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+934ed786e5cd1bdeba83aaaca042992506ae8ac0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yarp.Example.Gateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yarp.Example.Gateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
