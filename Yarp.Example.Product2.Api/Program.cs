@@ -1,26 +1,22 @@
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    app.MapOpenApi();
 }
 
 app.UseHttpsRedirection();
 
 
-app.MapGet("/product", () =>
-{
-    var forecast = "Product Service 2";
+app.MapGet("/", () =>
+    {
+        var forecast = "Product Service 2";
     return forecast;
 })
-.WithName("GetProduct")
-.WithOpenApi();
+.WithName("GetProduct");
 
 app.Run();
-

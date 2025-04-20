@@ -31,3 +31,6 @@ C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Sales.Api\obj\Debug\net9.0
 C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Product.Api\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Product2.Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Sales.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Product.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Product2.Api\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\thuye\source\repos\Yarp.Example\Yarp.Example.Sales.Api\obj\Debug\net9.0\staticwebassets.build.json
