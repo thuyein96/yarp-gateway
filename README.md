@@ -1,6 +1,6 @@
 # API Gateway Implementation with YARP
 
-This project demonstrates a practical implementation of an **API Gateway** using **YARP (Yet Another Reverse Proxy)** in C#. It's designed to help you understand the core concepts of API Gateways through real-world features and hands-on experience.
+This project demonstrates a practical implementation of an **API Gateway** using **YARP (Yet Another Reverse Proxy)** in C#. Practicing myself to understand the core concepts of API Gateways through real-world features and hands-on experience.
 
 ## 🔧 Features
 
