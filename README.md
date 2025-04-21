@@ -5,8 +5,7 @@ This project demonstrates a practical implementation of an **API Gateway** using
 ## 🔧 Features
 
 - **🔁 Reverse Proxy** – Route incoming HTTP requests to appropriate backend services.  
-- **⚖️ Load Balancing** – Distribute traffic efficiently across multiple instances.  
-- **🚦 Rate Limiting** – Control the number of requests to protect backend services.  
+- **⚖️ Load Balancing** – Custom load balancing based on tenant
 - **🔐 API Authentication** – Secure your endpoints using authentication mechanisms.
 
 ---
